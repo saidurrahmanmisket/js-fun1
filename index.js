@@ -1,0 +1,1 @@
+onclick="document.getElementById('image').src = 'img/kiss.png' " 
